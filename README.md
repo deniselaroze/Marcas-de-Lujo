@@ -8,3 +8,4 @@ Repository for a conjoint experiment for luxury brands that took place at CESS S
 - R script for data manupulation 
 - R scripts for data analysis
 - Random sample of the data collected in the experiment. 
+- Design and ethics documents
